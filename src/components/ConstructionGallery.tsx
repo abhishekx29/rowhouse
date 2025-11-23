@@ -6,7 +6,7 @@ const ConstructionGallery = () => {
   const [selectedMedia, setSelectedMedia] = useState<string | null>(null);
 
   return (
-    <section id="gallery" className="py-20 bg-muted/30">
+    <section id="gallery" className="py-20 bg-muted/30 scroll-mt-20">
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16 space-y-4">

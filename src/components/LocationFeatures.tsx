@@ -35,7 +35,7 @@ const LocationFeatures = () => {
   ];
 
   return (
-    <section className="py-20 bg-background">
+    <section id="features" className="py-20 bg-background scroll-mt-20">
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16 space-y-4">
